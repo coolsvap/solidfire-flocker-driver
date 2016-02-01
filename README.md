@@ -17,7 +17,7 @@ Each of the following packages needs to be installed on EVERY Flocker Node
 
   * Redhat variants<br>
   ```
-  sud yum in stall iscsi-initiator-utils
+  sud yum install iscsi-initiator-utils
   ```
 
 - SolidFire Flocker Plugin (NOTE: Be sure to use flockers installed pip)
